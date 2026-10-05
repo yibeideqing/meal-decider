@@ -1,0 +1,4 @@
+interface:
+  display_name: "今天吃什么"
+  short_description: "根据冰箱现有食材、忌口和口味偏好，推荐今天就能做的菜"
+  default_prompt: "用 $meal-decider 根据我冰箱里的食材和口味偏好，推荐今天能做的菜。"

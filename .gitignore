@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 临时与备份文件
+*.tmp
+*.bak
+*.orig
+*.rej
+*.log
+
+# 依赖与缓存（本项目用不到，仅防止误提交）
+__pycache__/
+*.pyc
+node_modules/
